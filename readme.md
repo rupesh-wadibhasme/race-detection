@@ -8,4 +8,4 @@ Quick run:
 3. If running locally then type http://0.0.0.0:8005/ or http://localhost:8005/ in browser to pass test image
 
 ## Contributor 
-(https://github.com/anandi1989)[Amit Nandi]
+[Amit Nandi](https://github.com/anandi1989)
